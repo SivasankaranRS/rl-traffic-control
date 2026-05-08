@@ -1,0 +1,13 @@
+[project]
+name = "intelligent-traffic-signal-control-using-reinforcement-learning"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "matplotlib>=3.10.9",
+    "numpy>=2.4.4",
+    "stable-baselines3[extra]>=2.8.0",
+    "sumo-rl>=1.4.5",
+    "torch>=2.11.0",
+]
