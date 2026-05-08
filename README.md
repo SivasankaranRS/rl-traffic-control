@@ -4,7 +4,7 @@ Intelligent Traffic Signal Control using Reinforcement Learning
 - Structure: notebooks, environment files, traffic maps, SUMO configs.
 - Key scripts: `main.py`, `SARSA/train.py`, model notebooks in `dqn/`.
 - Use SUMO for simulation and RL agents for adaptive signal control.
-- Using tensorboard to compard reward and episodes
+- Using tensorboard to compare reward and episodes
 
 Keep this repo for research, experiments, and results tracking.
 
