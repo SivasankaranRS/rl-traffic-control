@@ -8,3 +8,6 @@ Intelligent Traffic Signal Control using Reinforcement Learning
 
 Keep this repo for research, experiments, and results tracking.
 
+map1 = two way single intersection
+map2 - two way single interesectin with vechicles
+map 3 = iiser map
