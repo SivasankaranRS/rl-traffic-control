@@ -459,6 +459,7 @@ dependencies = [
     { name = "pettingzoo" },
     { name = "stable-baselines3", extra = ["extra"] },
     { name = "sumo-rl" },
+    { name = "tensorboard" },
     { name = "torch" },
     { name = "traci" },
 ]
@@ -475,6 +476,7 @@ requires-dist = [
     { name = "pettingzoo", specifier = "==1.24.3" },
     { name = "stable-baselines3", extras = ["extra"], specifier = ">=2.8.0" },
     { name = "sumo-rl", specifier = ">=1.4.5" },
+    { name = "tensorboard", specifier = ">=2.20.0" },
     { name = "torch", specifier = ">=2.11.0" },
     { name = "traci", specifier = ">=1.26.0" },
 ]
