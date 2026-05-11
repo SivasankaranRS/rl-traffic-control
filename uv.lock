@@ -460,6 +460,7 @@ dependencies = [
     { name = "stable-baselines3", extra = ["extra"] },
     { name = "sumo-rl" },
     { name = "torch" },
+    { name = "traci" },
 ]
 
 [package.dev-dependencies]
@@ -475,6 +476,7 @@ requires-dist = [
     { name = "stable-baselines3", extras = ["extra"], specifier = ">=2.8.0" },
     { name = "sumo-rl", specifier = ">=1.4.5" },
     { name = "torch", specifier = ">=2.11.0" },
+    { name = "traci", specifier = ">=1.26.0" },
 ]
 
 [package.metadata.requires-dev]

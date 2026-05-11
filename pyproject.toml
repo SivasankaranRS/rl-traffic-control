@@ -11,6 +11,7 @@ dependencies = [
     "stable-baselines3[extra]>=2.8.0",
     "sumo-rl>=1.4.5",
     "torch>=2.11.0",
+    "traci>=1.26.0",
 ]
 
 [dependency-groups]
